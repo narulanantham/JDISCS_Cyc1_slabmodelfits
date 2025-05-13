@@ -1,5 +1,5 @@
 # JDISCS_Cyc1_slabmodelfits
-Slab model fits to _JWST_ MIRI MRS spectra from all 31 protoplanetary disks presented in Arulanantham et al. 2025
+Slab model fits to _JWST_ MIRI MRS spectra from all 31 protoplanetary disks presented in Arulanantham et al. 2025 (https://arxiv.org/abs/2505.07562)
 
 This work includes targets from the following Cycle 1 GO programs: 
 - PID 1584 (PI: C. Salyk; co-PI: K. Pontoppidan)
